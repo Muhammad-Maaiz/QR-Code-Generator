@@ -4,13 +4,13 @@
 
 <h2>Features</h2>
 <ul>
-    <li>Multi-line Input: Users can input data spanning multiple lines.</li>
-    <li>QR Code Generation: Generates QR codes based on the entered data.</li>
-    <li>Customization: Allows customization of QR code version, error correction level, box size, and border.</li>
-    <li>Image Saving: Saves the generated QR code as an image file.</li>
+    <li><b>Multi-line Input:</b> Users can input data spanning multiple lines.</li>
+    <li><b>QR Code Generation:</b> Generates QR codes based on the entered data.</li>
+    <li><b>Customization:</b> Allows customization of QR code version, error correction level, box size, and border.</li>
+    <li><b>Image Saving:</b> Saves the generated QR code as an image file.</li>
 </ul>
 
-<h2>How to Use</h2>
+<h2>Usage</h2>
 <h3>Running the Script:</h3>
 <ol>
     <li>Execute the script in a Python environment.</li>
