@@ -1,3 +1,4 @@
+![logo](https://github.com/Muhammad-Maaiz/QR-Code-Generator/assets/157501398/dede3d5e-6f25-4a96-b19c-83543274db82)
 
 <h1>QR Code Generator</h1>
 <p>This script generates QR codes from the input data provided by the user. It utilizes the qrcode library to create QR codes and the PIL (Python Imaging Library) to save them as images. Users can input data spanning multiple lines, and the script terminates upon entering "exit".</p>
